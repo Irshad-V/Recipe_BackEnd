@@ -1,0 +1,6 @@
+# Ignore .env files
+.env
+
+# Ignore Node.js executable
+node_modules/
+npm-debug.log
